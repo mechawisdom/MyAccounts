@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_3sdp"
+    android:layout_marginTop="@dimen/_3sdp"
+    android:layout_marginEnd="@dimen/_3sdp"
+    android:clickable="true"
+    android:focusable="true"
+    android:fontFamily="@font/gilroy_regular"
+    android:foreground="@drawable/ripple_effect_rectangle_v12sdp"
+    android:lineSpacingExtra="@dimen/_6sdp"
+    android:padding="@dimen/_9sdp"
+    android:textColor="@color/dialog_on_container"
+    android:textSize="@dimen/_13ssp"
+    android:textStyle="bold" />
